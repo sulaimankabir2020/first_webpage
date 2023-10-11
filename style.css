@@ -115,3 +115,8 @@ main {
 .resume-container {
     display: flex;
 }
+
+.download-cv {
+    text-align: center;
+    margin-top: 50px;
+}
