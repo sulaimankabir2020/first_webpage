@@ -41,3 +41,38 @@ nav li {
 nav a {
     text-decoration: none;
 }
+
+/* Header related style */
+.header {
+    background-color: whitesmoke;
+    background-image: url(images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+.banner1 {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+}
+
+.banner .profile-pic {
+    width: 500px;
+
+}
+
+/* main section styles */
+
+.about {
+    padding: 130px;
+    border-radius: 10px;
+    background: wheat;
+    margin: 130px;
+}
+.section-title{
+    color: black;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+
+}
