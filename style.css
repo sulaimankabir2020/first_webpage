@@ -120,3 +120,22 @@ main {
     text-align: center;
     margin-top: 50px;
 }
+
+footer {
+    display: flex;
+    gap: 50px;
+    background: #fff8f3;
+    margin-top: 100px;
+    padding: 130px 200px;
+}
+
+.footer-column {
+    width: 50%;
+}
+
+.contact input,
+textarea {
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 35px;
+}
